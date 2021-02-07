@@ -1,0 +1,26 @@
+var class_zero_install_1_1_model_1_1_requirements =
+[
+    [ "Requirements", "class_zero_install_1_1_model_1_1_requirements.html#a8961ce555cc50b084675bbc9b973e48c", null ],
+    [ "Requirements", "class_zero_install_1_1_model_1_1_requirements.html#a10f1847d65551a0aec8c4e17e8742c90", null ],
+    [ "Requirements", "class_zero_install_1_1_model_1_1_requirements.html#a8b2824d1c1f277ed7e17e3c5c052163e", null ],
+    [ "Requirements", "class_zero_install_1_1_model_1_1_requirements.html#af1bffd73d5d7eead0bcf7f16183689c4", null ],
+    [ "AddRestriction", "class_zero_install_1_1_model_1_1_requirements.html#a6c8356519297b85495d3eaa71ce7c539", null ],
+    [ "Clone", "class_zero_install_1_1_model_1_1_requirements.html#aff12889f437a31895e46ecaf2e9d270b", null ],
+    [ "Equals", "class_zero_install_1_1_model_1_1_requirements.html#a4dcadf351f5186df47106517986b3a63", null ],
+    [ "Equals", "class_zero_install_1_1_model_1_1_requirements.html#af8747855309093bd509030ecb8afa4c9", null ],
+    [ "ForCurrentSystem", "class_zero_install_1_1_model_1_1_requirements.html#a6d725284d3a11ba1ce4ba6a229f7b1e8", null ],
+    [ "GetHashCode", "class_zero_install_1_1_model_1_1_requirements.html#a5d8b1a797135d6cccadec5a9e9a3055d", null ],
+    [ "ToCommandLineArgs", "class_zero_install_1_1_model_1_1_requirements.html#a76cf266404ef11b199ba7efe6881bf51", null ],
+    [ "ToString", "class_zero_install_1_1_model_1_1_requirements.html#a3f53523028541b89f90bf821050fb607", null ],
+    [ "Architecture", "class_zero_install_1_1_model_1_1_requirements.html#a2ce6486b71f16e8d1547d94a24bfd2cd", null ],
+    [ "Command", "class_zero_install_1_1_model_1_1_requirements.html#a790d52affd42b401d7efbb3a80f07e7a", null ],
+    [ "CpuString", "class_zero_install_1_1_model_1_1_requirements.html#a5ce142d709d244af6f38304fbaa9e42e", null ],
+    [ "Distributions", "class_zero_install_1_1_model_1_1_requirements.html#a8cb4957a6f975ebbf6006df725b88cf3", null ],
+    [ "ExtraRestrictions", "class_zero_install_1_1_model_1_1_requirements.html#a76bdee7b8bd5f0caf77913404504646b", null ],
+    [ "InterfaceUri", "class_zero_install_1_1_model_1_1_requirements.html#ae05e0c66b1de30ef6b1f912d6f3872f6", null ],
+    [ "InterfaceUriString", "class_zero_install_1_1_model_1_1_requirements.html#a7ebdf370d743c47507189da5f296c18e", null ],
+    [ "Languages", "class_zero_install_1_1_model_1_1_requirements.html#aac1b9071570651e0dc6d0ae2f536907e", null ],
+    [ "LanguagesString", "class_zero_install_1_1_model_1_1_requirements.html#a796207f3a48c33712810770ad37d2aef", null ],
+    [ "OSString", "class_zero_install_1_1_model_1_1_requirements.html#a2a469245ac69671e678362be6dfed2ea", null ],
+    [ "Source", "class_zero_install_1_1_model_1_1_requirements.html#aceb4d7583c49036eabf435c3af45a111", null ]
+];

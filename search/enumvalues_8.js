@@ -1,0 +1,15 @@
+var searchData=
+[
+  ['i386_3796',['I386',['../namespace_zero_install_1_1_model.html#a6b6b1bf56b90e4e773dc067ff71a369aad8b3e50d7c8ecaef026c0ebffd9b5e85',1,'ZeroInstall::Model']]],
+  ['i486_3797',['I486',['../namespace_zero_install_1_1_model.html#a6b6b1bf56b90e4e773dc067ff71a369aa168220f2bfc01a335e50fe0f3a4db78c',1,'ZeroInstall::Model']]],
+  ['i586_3798',['I586',['../namespace_zero_install_1_1_model.html#a6b6b1bf56b90e4e773dc067ff71a369aa552f96311bf955d8aaeb885b05222961',1,'ZeroInstall::Model']]],
+  ['i686_3799',['I686',['../namespace_zero_install_1_1_model.html#a6b6b1bf56b90e4e773dc067ff71a369aac9e762f16b99bd3e8c790e6685cf9beb',1,'ZeroInstall::Model']]],
+  ['indeterminate_3800',['Indeterminate',['https://common.nano-byte.net/class_nano_byte_1_1_common_1_1_native_1_1_windows_taskbar.html#a082c428a6d981569eb73d408bd0bfdfdaa2d00c353d1f9a5f07852650030dbd53',1,'NanoByte::Common::Native::WindowsTaskbar']]],
+  ['info_3801',['Info',['https://common.nano-byte.net/namespace_nano_byte_1_1_common.html#ab741dc89bf449b78c013eda9b0b16536a4059b0251f66a18cb56f544728796875',1,'NanoByte::Common::Info()'],['https://common.nano-byte.net/namespace_nano_byte_1_1_common.html#a473b2cdc0bb764befcff20e2df45bf09a4059b0251f66a18cb56f544728796875',1,'NanoByte::Common::Info()']]],
+  ['insecure_3802',['Insecure',['../namespace_zero_install_1_1_model.html#acf9f432b69de13f8d73e6fd7e8c6b020a86001355da63b012666e42f8770cbfbb',1,'ZeroInstall::Model']]],
+  ['integrate_3803',['Integrate',['../namespace_zero_install_1_1_store.html#a20ab3ef0ce462a94feb16baa753d844ca53cd3f04df292f1d05f2a0406eeadc0f',1,'ZeroInstall::Store']]],
+  ['invalidarguments_3804',['InvalidArguments',['../namespace_zero_install_1_1_commands.html#a8706bacc0d4f0bf1e82a184bffae0a5fae73a2e92f1c87086c838b442552a4775',1,'ZeroInstall.Commands.InvalidArguments()'],['../namespace_zero_install_1_1_publish.html#aaf280f040d4143f9e619f1504016c884ae73a2e92f1c87086c838b442552a4775',1,'ZeroInstall.Publish.InvalidArguments()']]],
+  ['invaliddata_3805',['InvalidData',['../namespace_zero_install_1_1_commands.html#a8706bacc0d4f0bf1e82a184bffae0a5fa3c4b6828f5a12280debdb5a12e0e72ba',1,'ZeroInstall.Commands.InvalidData()'],['../namespace_zero_install_1_1_publish.html#aaf280f040d4143f9e619f1504016c884a3c4b6828f5a12280debdb5a12e0e72ba',1,'ZeroInstall.Publish.InvalidData()']]],
+  ['invalidsignature_3806',['InvalidSignature',['../namespace_zero_install_1_1_commands.html#a8706bacc0d4f0bf1e82a184bffae0a5fa351caf723532f9ba7a371b5dfa868eed',1,'ZeroInstall::Commands']]],
+  ['ioerror_3807',['IOError',['https://common.nano-byte.net/namespace_nano_byte_1_1_common_1_1_tasks.html#a5bbdbbbe31fcd00dbaae72fb7a898476a5206bd7472156351d2d9a99633ac9580',1,'NanoByte::Common::Tasks::IOError()'],['../namespace_zero_install_1_1_commands.html#a8706bacc0d4f0bf1e82a184bffae0a5fa5206bd7472156351d2d9a99633ac9580',1,'ZeroInstall.Commands.IOError()'],['../namespace_zero_install_1_1_publish.html#aaf280f040d4143f9e619f1504016c884a5206bd7472156351d2d9a99633ac9580',1,'ZeroInstall.Publish.IOError()']]]
+];

@@ -1,0 +1,25 @@
+var searchData=
+[
+  ['schemalocation_3686',['SchemaLocation',['../class_zero_install_1_1_model_1_1_catalog.html#a1f6cf19380f365f831293c0ca1fb1ae4',1,'ZeroInstall.Model.Catalog.SchemaLocation()'],['../class_zero_install_1_1_model_1_1_feed.html#ab5d7c1c5fdfefa92516901ae9e9db08f',1,'ZeroInstall.Model.Feed.SchemaLocation()']]],
+  ['selections_3687',['Selections',['../class_zero_install_1_1_commands_1_1_basic_1_1_selection.html#a76e7ca7606029b9fbeca27c7743659e5',1,'ZeroInstall.Commands.Basic.Selection.Selections()'],['../class_zero_install_1_1_services_1_1_solvers_1_1_solver_run_base.html#aff516aec7b46a56ba698a4b5b67fd8ca',1,'ZeroInstall.Services.Solvers.SolverRunBase.Selections()']]],
+  ['selectionsdocument_3688',['SelectionsDocument',['../class_zero_install_1_1_commands_1_1_basic_1_1_selection.html#aa95f1368639e2e72f32314fe9e750fb2',1,'ZeroInstall::Commands::Basic::Selection']]],
+  ['serviceassocs_3689',['ServiceAssocs',['../class_zero_install_1_1_publish_1_1_capture_1_1_snapshot.html#a1b66825409cf615405fa92143fcfbffd',1,'ZeroInstall::Publish::Capture::Snapshot']]],
+  ['servicecalender_3690',['ServiceCalender',['../class_zero_install_1_1_model_1_1_capabilities_1_1_default_program.html#a32c6ef998dd3da7351b206e8b421ba3c',1,'ZeroInstall::Model::Capabilities::DefaultProgram']]],
+  ['servicecontacts_3691',['ServiceContacts',['../class_zero_install_1_1_model_1_1_capabilities_1_1_default_program.html#a215c76ca6792db5b2f0246fbb14dbe9e',1,'ZeroInstall::Model::Capabilities::DefaultProgram']]],
+  ['serviceinternet_3692',['ServiceInternet',['../class_zero_install_1_1_model_1_1_capabilities_1_1_default_program.html#a8e42886a0ed8c5b2897dc68ad533f95d',1,'ZeroInstall::Model::Capabilities::DefaultProgram']]],
+  ['serviceinternetcall_3693',['ServiceInternetCall',['../class_zero_install_1_1_model_1_1_capabilities_1_1_default_program.html#ada175ee59003410800317e5a7dd237ea',1,'ZeroInstall::Model::Capabilities::DefaultProgram']]],
+  ['servicejava_3694',['ServiceJava',['../class_zero_install_1_1_model_1_1_capabilities_1_1_default_program.html#a09d5db3b263ef8e192a6dc934135c0a0',1,'ZeroInstall::Model::Capabilities::DefaultProgram']]],
+  ['servicemail_3695',['ServiceMail',['../class_zero_install_1_1_model_1_1_capabilities_1_1_default_program.html#aea783d04abbfe089c69c202b63ee6716',1,'ZeroInstall::Model::Capabilities::DefaultProgram']]],
+  ['servicemedia_3696',['ServiceMedia',['../class_zero_install_1_1_model_1_1_capabilities_1_1_default_program.html#ad6270bbe208aae9f32fbaac02a5aaca5',1,'ZeroInstall::Model::Capabilities::DefaultProgram']]],
+  ['servicemessenger_3697',['ServiceMessenger',['../class_zero_install_1_1_model_1_1_capabilities_1_1_default_program.html#a138ceccbcab8e0b05ea5f7abe95cd391',1,'ZeroInstall::Model::Capabilities::DefaultProgram']]],
+  ['servicepack_3698',['ServicePack',['https://common.nano-byte.net/struct_nano_byte_1_1_common_1_1_info_1_1_o_s_info.html#a5a9b747a18edc503f87b2f736fafbd06',1,'NanoByte::Common::Info::OSInfo']]],
+  ['showxml_3699',['ShowXml',['../class_zero_install_1_1_commands_1_1_basic_1_1_selection.html#a62ab745239c6a1517bc2fd1f08eedd99',1,'ZeroInstall::Commands::Basic::Selection']]],
+  ['signatureblockend_3700',['SignatureBlockEnd',['../class_zero_install_1_1_store_1_1_feeds_1_1_feed_utils.html#ab82d0b0e642ec4a1822d5113d40d46b2',1,'ZeroInstall::Store::Feeds::FeedUtils']]],
+  ['signatureblockstart_3701',['SignatureBlockStart',['../class_zero_install_1_1_store_1_1_feeds_1_1_feed_utils.html#a19eabca589cb7ab412eb3e7af7745a85',1,'ZeroInstall::Store::Feeds::FeedUtils']]],
+  ['standardcategories_3702',['StandardCategories',['../class_zero_install_1_1_desktop_integration_1_1_category_integration_manager.html#a6c6d785248ec3242bc6dbb383420ae20',1,'ZeroInstall::DesktopIntegration::CategoryIntegrationManager']]],
+  ['suffixcounter_3703',['SuffixCounter',['../class_zero_install_1_1_store_1_1_view_model_1_1_cache_node.html#aa46fcc298dca6abc0486ca9fc34a8c74',1,'ZeroInstall::Store::ViewModel::CacheNode']]],
+  ['supportedmimetypes_3704',['SupportedMimeTypes',['../class_zero_install_1_1_store_1_1_implementations_1_1_archives_1_1_archive_generator.html#a31ee9247e6a4412f65042b49091b4c0d',1,'ZeroInstall::Store::Implementations::Archives::ArchiveGenerator']]],
+  ['symlinkattributes_3705',['SymlinkAttributes',['../class_zero_install_1_1_store_1_1_implementations_1_1_archives_1_1_zip_extractor.html#aebd6506a085e91b51a15772875cdb998',1,'ZeroInstall::Store::Implementations::Archives::ZipExtractor']]],
+  ['symlinkcookie_3706',['SymlinkCookie',['https://common.nano-byte.net/class_nano_byte_1_1_common_1_1_native_1_1_cygwin_utils.html#a2bf1776ec68b3ee93534adf5fbd72184',1,'NanoByte::Common::Native::CygwinUtils']]],
+  ['symlinkfile_3707',['SymlinkFile',['../class_zero_install_1_1_store_1_1_implementations_1_1_build_1_1_flag_utils.html#afe2251ba78999d5dd07b831ffdea2a67',1,'ZeroInstall::Store::Implementations::Build::FlagUtils']]]
+];

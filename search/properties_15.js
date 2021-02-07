@@ -1,0 +1,7 @@
+var searchData=
+[
+  ['waithandle_4303',['WaitHandle',['https://common.nano-byte.net/struct_nano_byte_1_1_common_1_1_tasks_1_1_cancellation_token.html#a2e1407ab3aefa312a211f6428742f7a3',1,'NanoByte::Common::Tasks::CancellationToken::WaitHandle()'],['https://common.nano-byte.net/class_nano_byte_1_1_common_1_1_tasks_1_1_cancellation_token_source.html#a14cac3a37289aa3e199a98208aa7b10e',1,'NanoByte::Common::Tasks::CancellationTokenSource::WaitHandle()']]],
+  ['windowsmachinewideonly_4304',['WindowsMachineWideOnly',['../class_zero_install_1_1_model_1_1_capabilities_1_1_app_registration.html#a708e9a07c851f083dba037dd5b416645',1,'ZeroInstall.Model.Capabilities.AppRegistration.WindowsMachineWideOnly()'],['../class_zero_install_1_1_model_1_1_capabilities_1_1_capability.html#ad9e751ee669dc6c1fa2a5090ba44a549',1,'ZeroInstall.Model.Capabilities.Capability.WindowsMachineWideOnly()'],['../class_zero_install_1_1_model_1_1_capabilities_1_1_default_program.html#a146d68065bc6f89a7cf07c9daf235ab6',1,'ZeroInstall.Model.Capabilities.DefaultProgram.WindowsMachineWideOnly()']]],
+  ['workingdir_4305',['WorkingDir',['../class_zero_install_1_1_model_1_1_command.html#ac9a1a42af4907bb16f14ec8bd1d35b37',1,'ZeroInstall::Model::Command']]],
+  ['writepath_4306',['WritePath',['https://common.nano-byte.net/class_nano_byte_1_1_common_1_1_storage_1_1_atomic_write.html#a3d86d8b1de3efee16e619d35fdeaf816',1,'NanoByte::Common::Storage::AtomicWrite']]]
+];

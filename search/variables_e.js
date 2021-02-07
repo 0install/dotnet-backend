@@ -1,0 +1,21 @@
+var searchData=
+[
+  ['packageprefix_3628',['PackagePrefix',['../class_zero_install_1_1_services_1_1_native_1_1_external_implementation.html#a6f2e2fdb36ce69db6470846090ba09a0',1,'ZeroInstall::Services::Native::ExternalImplementation']]],
+  ['pagestack_3629',['PageStack',['https://common.nano-byte.net/class_nano_byte_1_1_common_1_1_controls_1_1_wizard.html#a57d493ff5b4a7491748154ddbe792295',1,'NanoByte::Common::Controls::Wizard']]],
+  ['palm_3630',['Palm',['https://common.nano-byte.net/class_nano_byte_1_1_common_1_1_controls_1_1_touch_event_args.html#ab8e2d61032488211d29202d812667775',1,'NanoByte::Common::Controls::TouchEventArgs']]],
+  ['parent_3631',['Parent',['https://common.nano-byte.net/class_nano_byte_1_1_common_1_1_collections_1_1_xml_dictionary_entry.html#acd4d61152cc926e11330f9710b66b6e5',1,'NanoByte::Common::Collections::XmlDictionaryEntry']]],
+  ['path_3632',['Path',['https://common.nano-byte.net/struct_nano_byte_1_1_common_1_1_native_1_1_windows_taskbar_1_1_shell_link.html#a1eb0541f17e69cafa70a67d09c8dd8a4',1,'NanoByte::Common::Native::WindowsTaskbar::ShellLink']]],
+  ['performedwindowmessageid_3633',['PerformedWindowMessageID',['../class_zero_install_1_1_commands_1_1_desktop_1_1_self_management_1_1_self_manager.html#a2ee1bc1488c81fe3fbddac195af79147',1,'ZeroInstall::Commands::Desktop::SelfManagement::SelfManager']]],
+  ['platform_3634',['Platform',['https://common.nano-byte.net/struct_nano_byte_1_1_common_1_1_info_1_1_o_s_info.html#acbe94413687b811e9f087c095fff3edb',1,'NanoByte::Common::Info::OSInfo']]],
+  ['portableflagname_3635',['PortableFlagName',['https://common.nano-byte.net/class_nano_byte_1_1_common_1_1_storage_1_1_locations.html#a8fe4225f286bce5978129a7935134a0b',1,'NanoByte::Common::Storage::Locations']]],
+  ['predicate_3636',['Predicate',['https://common.nano-byte.net/class_nano_byte_1_1_common_1_1_dispatch_1_1_bucket_rule.html#ae0e6725e47eba6f895a94361ae6e1fc5',1,'NanoByte::Common::Dispatch::BucketRule']]],
+  ['prefix_3637',['Prefix',['../class_zero_install_1_1_desktop_integration_1_1_windows_1_1_context_menu.html#add59ca2496b687be8639cf932dc1a32e',1,'ZeroInstall.DesktopIntegration.Windows.ContextMenu.Prefix()'],['../class_zero_install_1_1_desktop_integration_1_1_windows_1_1_registry_classes.html#a49ea6c5796282bdeaa28b93f664b8af6',1,'ZeroInstall.DesktopIntegration.Windows.RegistryClasses.Prefix()']]],
+  ['primary_3638',['Primary',['https://common.nano-byte.net/class_nano_byte_1_1_common_1_1_controls_1_1_touch_event_args.html#a37347d07932f5993b2cb1aa57411a385',1,'NanoByte::Common::Controls::TouchEventArgs']]],
+  ['progids_3639',['ProgIDs',['../class_zero_install_1_1_publish_1_1_capture_1_1_snapshot.html#a4c5ce6e4eca750e5afda91c0af97e780',1,'ZeroInstall::Publish::Capture::Snapshot']]],
+  ['programsdirs_3640',['ProgramsDirs',['../class_zero_install_1_1_publish_1_1_capture_1_1_snapshot.html#a98e02cd2c5b32fb1ab3c07925b9748d3',1,'ZeroInstall::Publish::Capture::Snapshot']]],
+  ['protocolassocs_3641',['ProtocolAssocs',['../class_zero_install_1_1_publish_1_1_capture_1_1_snapshot.html#ab8a85f8697c8f9822ed8045a593ac777',1,'ZeroInstall::Publish::Capture::Snapshot']]],
+  ['protocolindicator_3642',['ProtocolIndicator',['../class_zero_install_1_1_desktop_integration_1_1_windows_1_1_url_protocol.html#ae173bba7705c6dce1203efa5c2979ad5',1,'ZeroInstall::DesktopIntegration::Windows::UrlProtocol']]],
+  ['purposeflagaccesspoint_3643',['PurposeFlagAccessPoint',['../class_zero_install_1_1_desktop_integration_1_1_windows_1_1_registry_classes.html#a1e564feecf78d18e8010925ee32df339',1,'ZeroInstall::DesktopIntegration::Windows::RegistryClasses']]],
+  ['purposeflagcapability_3644',['PurposeFlagCapability',['../class_zero_install_1_1_desktop_integration_1_1_windows_1_1_registry_classes.html#a4122c85dc632930234b7b0656a9515ac',1,'ZeroInstall::DesktopIntegration::Windows::RegistryClasses']]],
+  ['purposeflagprefix_3645',['PurposeFlagPrefix',['../class_zero_install_1_1_desktop_integration_1_1_windows_1_1_registry_classes.html#a12c17f3e4442eb98c89ca708b5ada160',1,'ZeroInstall::DesktopIntegration::Windows::RegistryClasses']]]
+];
